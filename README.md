@@ -4,7 +4,7 @@
 OpenSana is a lightweight, offline-ready system for collecting and analyzing health data in resource-limited environments.
 
 ## Repository
-[GitHub Link](https://github.com/opensans/app )
+[GitHub Link](https://github.com/opensana/app)
 
 ## Requirements
 - Python 3.9+
