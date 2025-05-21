@@ -26,7 +26,7 @@ class DHIS2Client:
             print("[DHIS2] No cached data to push")
             return
         
-        # Демонстрация интеграции
+        # demo integration
         print(f"[DHIS2] Pushing data to {endpoint}")
 
 if __name__ == "__main__":
